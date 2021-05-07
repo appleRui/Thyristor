@@ -1,4 +1,3 @@
-require 'pry'
 PI = Math::PI
 R = 22.2
 L = 0.149
